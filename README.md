@@ -5,6 +5,10 @@ This project replicates the layout and design of Amazon’s homepage, focusing o
 
 ---
 
+## 🌐 Live Demo  
+🔗 [View Project Here](https://tushar-313.github.io/amazon-clone-html-css/) 
+
+---
 
 ## 💡 Features
 
