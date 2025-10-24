@@ -8,7 +8,7 @@ This project replicates the layout and design of Amazon’s homepage, focusing o
 
 ## 💡 Features
 
-- 🏠 Clean and responsive homepage layout  
+- 🏠 Clean and attractive homepage layout  
 - 🧭 Header with navigation bar and search bar  
 - 🛍️ Product sections styled like Amazon’s homepage  
 - 🧾 Footer with useful links and contact info  
